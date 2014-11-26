@@ -10,3 +10,6 @@ Sampling of the sites can be done in two ways:
 Site sampling can be performed within predefined data partitions. This might be useful if you wish to generate bootstrap replicates with the original data partitions preserved. 
 
 Sequence labels (names) can also be randomly reassigned. This might be useful for certain randomisation tests, such as date-randomisation in heterochronous data sets.
+
+If you use SiteSampler in your research, please cite the following paper.
+Ho SYW, and Lanfear R (2010) Improved characterization of among-lineage rate variation in cetacean mitogenomes using codon-partitioned relaxed clocks. Mitochondrial DNA, 21: 138-146.

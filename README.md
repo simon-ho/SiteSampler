@@ -57,5 +57,3 @@ For further information about the use of the date-randomisation test for heteroc
 Ho SYW, Lanfear R, Phillips MJ, Barnes I, Thomas JA, Kolokotronis S-O, and Shapiro B (2011) Bayesian estimation of substitution rates from ancient DNA sequences with low information content. *Systematic Biology*, 60: 366-375. 
 
 Ramsden C, Holmes EC, and Charleston MA (2009) Hantavirus evolution in relation to its rodent and insectivore hosts: No evidence for codivergence. *Molecular Biology and Evolution*, 26: 143-153. 
-=======
->>>>>>> d4d7e540741f44f4d261205981a4088e8fc6c63c

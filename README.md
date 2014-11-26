@@ -23,11 +23,7 @@ java –jar SiteSampler.jar
 
 The application will prompt the user for (some or all of) the following:
 
-<<<<<<< HEAD
   1. Input file. This is the name of the file containing the sequence alignment, which should be in Fasta format. Individual sequences should not run across multiple lines (this limitation will be removed at some point in the future). 
-=======
-  1. Input file. This is the name of the file containing the sequence alignment, which should be in Fasta format. Individual sequences should not run across multiple lines. 
->>>>>>> d4d7e540741f44f4d261205981a4088e8fc6c63c
   2. Output file root. This is the prefix to be used for each of the output files.
   3. Number of aligned sequences.
   4. Number of randomisations required.
@@ -35,11 +31,7 @@ The application will prompt the user for (some or all of) the following:
   6. Resample sites with replacement?
   7. Randomise sequence labels?
   8. Number of partitions. Number of partitions in the sequence alignment. 
-<<<<<<< HEAD
   9. Sites in partition *n*. The number of sites in the *n*th partition.
-=======
-  9. Sites in partition n. The number of sites in the nth partition.
->>>>>>> d4d7e540741f44f4d261205981a4088e8fc6c63c
 
 Citation
 --------
@@ -47,7 +39,6 @@ Citation
 If you use SiteSampler in your research, please cite the following paper.
 
 Ho SYW, and Lanfear R (2010) Improved characterization of among-lineage rate variation in cetacean mitogenomes using codon-partitioned relaxed clocks. *Mitochondrial DNA*, 21: 138-146.
-<<<<<<< HEAD
 
 References
 ----------

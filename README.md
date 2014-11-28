@@ -23,7 +23,7 @@ To execute SiteSampler, place the .jar file and the sequence alignment in the sa
 java –jar SiteSampler.jar
 ```
 
-The application will prompt the user for (some or all of) the following:
+The application will prompt the user for the following:
 
   1. Input file. This is the name of the file containing the sequence alignment, which should be in Fasta format. Individual sequences should not run across multiple lines (this limitation will be removed at some point in the future). 
   2. Output file root. This is the prefix to be used for each of the output files.
